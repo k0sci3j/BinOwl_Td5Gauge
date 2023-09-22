@@ -1,7 +1,7 @@
 # _BinOwl Td5Gauge firmware_
 
 <font size="4">***If this software helped you or you think it is valuable, I would be grateful for a tip via [PayPal](https://paypal.me/k0sci3j), [donate me](https://www.paypal.com/donate/?hosted_button_id=YASECWP5FR7DL) or support on Patronite***</font>
-
+___
 
 The on-board computer is designed to help you diagnose problems with the Td5 engine. An additional advantage is the possibility of continuous monitoring engine parameters while driving.<br />
 Additionally you can set alarm for your coolant temperature. If temperature is too high screen will start to flash to inform you that something is going wrong.<br />
