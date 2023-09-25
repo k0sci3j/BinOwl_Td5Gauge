@@ -78,7 +78,7 @@ Firmware encryption for OTA
 
         ./obfuscate.py -i ../build/Td5Gauge_firmware.bin -o Td5Gauge_firmware_obfuscated.bin
 
-Only encrypted OTA image will be accepted by OTA update process on device.
+Only encrypted OTA image will be accepted by OTA update process on device. *Note:* This encrypted firmware is **ONLY** for OTA update. If you want to upload firmware with programming device you need to use unencrypted firmware.
 
 ## How to flash it
 ### Flashing device
