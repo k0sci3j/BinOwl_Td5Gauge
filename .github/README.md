@@ -51,7 +51,7 @@ Setup your working environment according to [ESP-IDF Documentation](https://docs
             idf_tools.py install cmake
 
 ### Build
-*Please note:* Bootloader is capable to boot newer version of firmware than botloader, but it is not able to boot older version. See [this guide](https://docs.espressif.com/projects/esp-idf/en/v4.4.5/esp32/api-guides/bootloader.html) on ESP-IDF page. Bootloader installed on BinOwl devices was build with esp toolset v4.4, so any newer firmware build version >=v4.4 should be upgradable via OTA without any problems.
+*Please note:* Bootloader is capable to boot newer version of firmware than botloader, but it is not able to boot older version. See [this guide](https://docs.espressif.com/projects/esp-idf/en/v4.4.5/esp32/api-guides/bootloader.html) on ESP-IDF page. Bootloader installed on BinOwl devices was build with esp toolset v4.4, so any newer firmware build version >=v4.4 should be upgradable via OTA without any problems. Original BinOwl Td5Gauge device is build with ESP32-PICO-V3, so all commands in this manual are for this MCU.
 1. Build project:
 
         idf.py build
