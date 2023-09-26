@@ -2,3 +2,5 @@
 build/
 dependencies.lock
 LICENSE
+.vscode
+.gitignore
