@@ -1,1 +1,4 @@
 .github
+build/
+dependencies.lock
+LICENSE
